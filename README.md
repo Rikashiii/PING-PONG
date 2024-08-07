@@ -4,6 +4,8 @@ The classic snake game created using Python.
 
 It makes use of the 'turtle' module.
 
+Run the 'main.py' file to start the game.
+
 # Information
 
 This project is made using the concept of Object Oriented Programming with the use of different modules such as turtle, time, random and some user-defined modules.
